@@ -1,0 +1,26 @@
+.container {
+    height: 200px;
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+}
+.logo {
+    width: 30%;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+.input {
+    margin-top: 10px;
+    margin-left: 70px;
+    
+}
+input{
+    width: 80%;
+}
+.button {
+    margin-top: 10px;
+    margin-left: 130px;
+
+}
